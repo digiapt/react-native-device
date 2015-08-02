@@ -1,4 +1,4 @@
-var Dimensions = require('Dimensions');
+var { Dimensions } = require('react-native');
 
 class Device {
   constructor() {
